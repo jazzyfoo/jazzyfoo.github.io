@@ -1,8 +1,9 @@
   body {
-       background: rgb(125, 198, 205);
-       color: rgb(45, 45, 45);
+       background: rgba(48, 152, 238, 0);
+       color: rgb(10, 1, 1);
        padding: 10px;
        font-family: arial;
+       background-image:url("https://cdn.dealeraccelerate.com/volo/1/19931/740146/790x1024/1966-ford-mustang")
    }
    #all-contents {
      max-width: 800px;
@@ -11,7 +12,7 @@
 
    /* navigation menu */
    nav {
-       background: rgb(139, 28, 0);
+       background: rgb(17, 63, 131);
       margin: 0 auto;
        display: flex;
        padding: 10px;
@@ -19,7 +20,7 @@
    h1 {
        display: flex;
        align-items: center;
-       color: rgb(255, 199, 199);
+       color: rgb(105, 127, 240);
        flex: 1;
        margin: 0;
    }
@@ -32,12 +33,12 @@
    }
    a {
        text-decoration: none;
-       color: rgb(25, 86, 136);
+       color: rgb(0, 0, 0);
    }
 
    /* main container area beneath menu */
    main {
-       background: rgb(255, 242, 206);
+       background: rgba(185, 191, 245, 0);
        display: flex;
    }
    .sidebar {
@@ -83,5 +84,5 @@
 
          #portfolio a {
              text-decoration: none;
-             color: #454545;
+             color: #6d3131;
          }
