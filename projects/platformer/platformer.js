@@ -34,14 +34,14 @@ $(function () {
     createPlatform(300, 675, 20, 20);
     createPlatform(200, 550, 20, 20);
     createPlatform(400, 350, 20, 20);
-    createPlatform(650, 350, 40, 20);
+    createPlatform(650, 380, 40, 400);
     createPlatform(880, 550, 30, 20);
     createPlatform(1060, 600, 30, 20);
     createPlatform(1260, 400, 40, 20);
     createPlatform(1170, 500, 40, 20);
     createPlatform(1350, 300, 40, 20);
-    createPlatform(1080, 250, 80, 20);
-
+    createPlatform(1080, 240, 80, 20);
+    createPlatform(60, 220, 20, 20);
 
     // TODO 2
     // Create collectables
@@ -59,7 +59,7 @@ $(function () {
     createCannon("left", 420, 1000);
     createCannon("bottom", 500, 600);
     createCannon("bottom", 750, 640);
-
+    createCannon("left", 200, 1000);
     /////////////////////////////////////////////////
     //////////ONLY CHANGE ABOVE THIS POINT///////////
     /////////////////////////////////////////////////
